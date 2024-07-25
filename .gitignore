@@ -1,6 +1,1 @@
 node_modules/
-DB_NAME = DATABASE_URL
-DB_USER = postgres
-DB_PASSWORD=1234 
-DB_DIALECT = postgres
-DB_HOST = 127.0.0.1
