@@ -1,1 +1,6 @@
 node_modules/
+DB_NAME = DATABASE_URL
+DB_USER=my_database_user
+DB_PASSWORD=my_strong_password
+DB_HOST=localhost  
+DB_DIALECT = postgres
